@@ -78,7 +78,7 @@ var EVMJson=[{
     "name": "bscscan-testnet",
     "url": "https://testnet.bscscan.com",
     "standard": "EIP3091"
-  }];
+  }]
 
 
 
