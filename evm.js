@@ -24,19 +24,19 @@ var EVMJson=[{
     "standard": "EIP3091"
   }]
 }, {
-  "name": "WhaleChain",
-  "chain": "WHALE",
-  "network": "testnet",
-  "rpc": ["https://testnet.whalechain.live"],
+  "name": "FortressChain",
+  "chain": "FORTRESSCHAIN",
+  "network": "mainnet",
+  "rpc": ["https://rpc.fortresschain.finance"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "WhaleChain",
-    "symbol": "WHALE",
+    "name": "FortressChain",
+    "symbol": "FORTRESSCHAIN",
     "decimals": 9
   },
-  "infoURL": "https://whalechain.live",
-  "shortName": "WHALE",
-  "chainId": 370,
-  "networkId": 370,
+  "infoURL": "https://fortresschain.finance",
+  "shortName": "exp",
+  "chainId": 372,
+  "networkId": 372,
   "slip44": 40
-}];
+}]
